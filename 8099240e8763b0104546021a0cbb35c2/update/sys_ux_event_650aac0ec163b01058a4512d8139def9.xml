@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <event_name>NAV_ITEM_SELECTED_RELAY_62dc92097313101000699434c4f6a72d</event_name>
+        <interfaces/>
+        <label>Link to destination Relay (Simple List Default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-02 07:23:07</sys_created_on>
+        <sys_id>650aac0ec163b01058a4512d8139def9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (Simple List Default)</sys_name>
+        <sys_package display_value="CHANDU ARUNARTHI" source="x_snc_chandu_aru_0">8099240e8763b0104546021a0cbb35c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CHANDU ARUNARTHI">8099240e8763b0104546021a0cbb35c2</sys_scope>
+        <sys_update_name>sys_ux_event_650aac0ec163b01058a4512d8139def9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-02 07:23:07</sys_updated_on>
+    </sys_ux_event>
+</record_update>

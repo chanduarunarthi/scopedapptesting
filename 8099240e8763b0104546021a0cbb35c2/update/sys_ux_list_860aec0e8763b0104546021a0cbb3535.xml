@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="taskchild">750aec0e8763b0104546021a0cbb352f</category>
+        <columns>number,priority,state,assigned_to,short_description,sys_class_name</columns>
+        <condition table="x_snc_chandu_aru_0_taskchild">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <configuration display_value="CHANDU ARUNARTHI_menu_config">750aec0e8763b0104546021a0cbb352d</configuration>
+        <groups/>
+        <list_attributes/>
+        <order>40</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-02 07:23:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>860aec0e8763b0104546021a0cbb3535</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CHANDU ARUNARTHI" source="x_snc_chandu_aru_0">8099240e8763b0104546021a0cbb35c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CHANDU ARUNARTHI">8099240e8763b0104546021a0cbb35c2</sys_scope>
+        <sys_update_name>sys_ux_list_860aec0e8763b0104546021a0cbb3535</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-02 07:23:09</sys_updated_on>
+        <table>x_snc_chandu_aru_0_taskchild</table>
+        <title>Closed</title>
+    </sys_ux_list>
+</record_update>
