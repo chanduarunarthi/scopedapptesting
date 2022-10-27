@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="taskchild" max_length="40" name="x_snc_chandu_aru_0_taskchild" sizeclass="1" type="collection"/>
+    <element db_object_id="6ac9280e8763b0104546021a0cbb35dd" extends="task" label="taskchild" max_length="40" name="x_snc_chandu_aru_0_taskchild" type="collection"/>
 </database>

@@ -11,15 +11,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-11-02 07:22:06</sys_created_on>
-            <sys_id>66c9680e8763b0104546021a0cbb3526</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>taskchild</sys_name>
             <sys_package display_value="CHANDU ARUNARTHI" source="x_snc_chandu_aru_0">8099240e8763b0104546021a0cbb35c2</sys_package>
             <sys_policy/>
             <sys_scope display_value="CHANDU ARUNARTHI">8099240e8763b0104546021a0cbb35c2</sys_scope>
             <sys_update_name>sys_documentation_x_snc_chandu_aru_0_taskchild__en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-02 07:22:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

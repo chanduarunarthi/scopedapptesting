@@ -6,14 +6,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-02 07:23:08</sys_created_on>
         <sys_id>a10aac0e4663b0103178e09f73204af8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Record</sys_name>
         <sys_package display_value="CHANDU ARUNARTHI" source="x_snc_chandu_aru_0">8099240e8763b0104546021a0cbb35c2</sys_package>
         <sys_policy/>
         <sys_scope display_value="CHANDU ARUNARTHI">8099240e8763b0104546021a0cbb35c2</sys_scope>
         <sys_update_name>sys_ux_screen_type_a10aac0e4663b0103178e09f73204af8</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-02 07:23:08</sys_updated_on>
     </sys_ux_screen_type>
     <sys_translated_text action="delete_multiple" query="documentkey=a10aac0e4663b0103178e09f73204af8"/>
 </record_update>
